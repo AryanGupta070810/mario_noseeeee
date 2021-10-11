@@ -1,0 +1,25 @@
+.heading
+{
+    width: 100%;
+}
+.heading_fat_inocent
+{
+    height: 100%;
+    display: inline;
+    float: left;
+}
+.heading button
+{
+    float: right;
+    
+}
+.big_image
+{
+    width: 100%;
+}
+video
+{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+}
